@@ -1,2 +1,2 @@
 # tic-tac-toe
-A tic tac toe game with a very dumb AI made with Java
+A tic tac toe game made with Java
